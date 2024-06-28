@@ -6,8 +6,7 @@ As a stock Android user, I noticed that my device does not natively support a do
 Additionally, my device has a dedicated Google Assistant button that I don't use. I decided to repurpose it to be useful by remapping it to toggle the device flashlight. Now, it functions as a flashlight toggle.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/ZurichBlade/Stock-Android-Lock-Flash/blob/main/app_ss.png?raw=true)
 
 ## Features
 - **Soft Lock**: Lock your device with a single tap, mimicking a native feature.
