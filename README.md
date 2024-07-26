@@ -8,6 +8,8 @@ Additionally, my device has a dedicated Google Assistant button that I don't use
 ## Screenshots
 ![Screenshot 1](https://github.com/ZurichBlade/Stock-Android-Lock-Flash/blob/main/app_ss.png?raw=true)
 
+Check out Instagram Reel: [Watch it here](https://www.instagram.com/reel/C91jq5fsZ74/?igsh=N2J1d3U3NnU2Y2Np)
+
 ## Features
 - **Soft Lock**: Lock your device with a single tap, mimicking a native feature.
 - **Flashlight Toggle**: Repurpose the dedicated Google Assistant button to toggle the device flashlight.
