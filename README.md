@@ -23,7 +23,7 @@ Go to Phone's Settings > System > Gestures > Google Assistant Button > Turn it O
 
 ## Additional Information
 - This App uses the [AccessibilityService API](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService) 
-- Privacy Policy: [Link to Privacy Policy](https://zurichblade.github.io/Lock-App-Privacy-Policy/Privacy%20Policy.html)
+- Privacy Policy: [Link to Privacy Policy](https://zurichblade.github.io/Privacy-Policy/Lock%20Privacy%20Policy.html)
 
 
 ## Download from Play Store
